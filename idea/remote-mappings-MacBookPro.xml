@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@54bb2aec-687c-4511-8b41-e220b8f908d7" />
+        <remote-mappings server-id="python@sftp://zperfet@172.31.246.36:22/data/zperfetData/miniconda3/envs/torch130/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/data/zperfetData/FakeNews/PathFake" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://zper@202.205.99.175:22/home/zper/miniconda3/envs/torch130/bin/python3.7m">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/zper/PathFake" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

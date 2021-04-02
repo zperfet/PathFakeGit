@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e736c2a-f28b-4afe-acc0-62909a6ef287" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PathFake$BERT.coverage" NAME="BERT Coverage Results" MODIFIED="1577691476051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/PathFake$simple_count.coverage" NAME="simple_count Coverage Results" MODIFIED="1578128875913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$MainResponseWAEBERT.coverage" NAME="MainResponseWAEBERT Coverage Results" MODIFIED="1577698603802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$plot.coverage" NAME="plot Coverage Results" MODIFIED="1578124874232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$MainResponseWAE.coverage" NAME="MainResponseWAE Coverage Results" MODIFIED="1577792923967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$MainAG.coverage" NAME="MainAG Coverage Results" MODIFIED="1575728648500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$WAE.coverage" NAME="WAE Coverage Results" MODIFIED="1576067107248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/PathVoting$path_vote.coverage" NAME="path_vote Coverage Results" MODIFIED="1575251201773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$MainPathVoting.coverage" NAME="MainPathVoting Coverage Results" MODIFIED="1576482606309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$data_prepare.coverage" NAME="data_prepare Coverage Results" MODIFIED="1577603644410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathVoting$Main_TD_RvNN_VAE.coverage" NAME="Main_TD_RvNN_VAE Coverage Results" MODIFIED="1575299629685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathVoting$MainPathVoting.coverage" NAME="MainPathVoting Coverage Results" MODIFIED="1575464827648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bKW5rPvXBUCeAWzqJ3UHdD7w42" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/wae_weight/pheme5000" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\FakeNews\PathFake\data\wae_weight\path5000" />
+      <recent name="D:\OneDrive\FakeNews\PathFake\data\wae_weight\path1516" />
+      <recent name="D:\OneDrive\FakeNews\PathFake\data\wae_weight\noise0.002" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/wae_weight/pheme5000" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/pheme_fold" />
+      <recent name="$PROJECT_DIR$/data/wae_weight/path5000" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PhemeMainResponseWAE">
+    <configuration name="MainResponseWAE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PathFake" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-10.0/lib64/" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainResponseWAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PhemeMainResponseWAE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PathFake" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PhemeMainResponseWAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PathFake" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_io" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PathFake" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_io.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pheme_data_prepare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PathFake" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pheme_data_prepare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MainResponseWAE" />
+      <item itemvalue="Python.pheme_data_prepare" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.PhemeMainResponseWAE" />
+      <item itemvalue="Python.data_io" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PhemeMainResponseWAE" />
+        <item itemvalue="Python.pheme_data_prepare" />
+        <item itemvalue="Python.data_io" />
+        <item itemvalue="Python.MainResponseWAE" />
+        <item itemvalue="Python.config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e736c2a-f28b-4afe-acc0-62909a6ef287" name="Default Changelist" comment="" />
+      <created>1575247176807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575247176807</updated>
+      <workItem from="1575247178364" duration="44518000" />
+      <workItem from="1575539818143" duration="6211000" />
+      <workItem from="1575602825238" duration="3081000" />
+      <workItem from="1575639643599" duration="44991000" />
+      <workItem from="1575964769189" duration="3000" />
+      <workItem from="1576051457944" duration="6881000" />
+      <workItem from="1576065228021" duration="19935000" />
+      <workItem from="1576136870093" duration="16962000" />
+      <workItem from="1576290913278" duration="73281000" />
+      <workItem from="1576637746375" duration="16461000" />
+      <workItem from="1577102178024" duration="870000" />
+      <workItem from="1577501041489" duration="44176000" />
+      <workItem from="1577617276168" duration="1392000" />
+      <workItem from="1577629258118" duration="1000" />
+      <workItem from="1577677805665" duration="23245000" />
+      <workItem from="1577766357511" duration="9321000" />
+      <workItem from="1577940938302" duration="7903000" />
+      <workItem from="1577978892789" duration="4715000" />
+      <workItem from="1578121677644" duration="5531000" />
+      <workItem from="1578365294152" duration="2127000" />
+      <workItem from="1578465289581" duration="599000" />
+      <workItem from="1578562469042" duration="692000" />
+      <workItem from="1578644478101" duration="719000" />
+      <workItem from="1578735047974" duration="26000" />
+      <workItem from="1588381086296" duration="9372000" />
+      <workItem from="1588400983522" duration="42009000" />
+      <workItem from="1588558956352" duration="28129000" />
+      <workItem from="1588939381689" duration="1560000" />
+      <workItem from="1589071495457" duration="414000" />
+      <workItem from="1589248676124" duration="17035000" />
+      <workItem from="1589361053191" duration="1095000" />
+      <workItem from="1589596317675" duration="10756000" />
+      <workItem from="1590672681317" duration="3815000" />
+      <workItem from="1590802144694" duration="3298000" />
+      <workItem from="1600592418505" duration="1084000" />
+      <workItem from="1600593629360" duration="5192000" />
+      <workItem from="1603372766527" duration="70000" />
+      <workItem from="1604392847967" duration="6075000" />
+      <workItem from="1604409982819" duration="5029000" />
+      <workItem from="1604478326227" duration="3982000" />
+      <workItem from="1604496030028" duration="9414000" />
+      <workItem from="1604584587404" duration="21917000" />
+      <workItem from="1605003270747" duration="5389000" />
+      <workItem from="1605510606518" duration="9606000" />
+      <workItem from="1605602098637" duration="10009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="86" key="#Deployment" timestamp="1605619137088">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1604586687882" />
+    <state x="240" y="86" key="#Deployment/0.23.1280.777@0.23.1280.777" timestamp="1605619137088" />
+    <state width="1280" height="438" key="DebuggerActiveHint" timestamp="1605684491311">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="451" key="DebuggerActiveHint/0.0.1280.800@0.0.1280.800" timestamp="1604588129231" />
+    <state width="1280" height="438" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1605684491311" />
+    <state width="1238" height="276" key="GridCell.Tab.0.bottom" timestamp="1605685093757">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1604587903978" />
+    <state width="1238" height="276" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1605685093757" />
+    <state width="1238" height="276" key="GridCell.Tab.0.center" timestamp="1605685093756">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1604587903977" />
+    <state width="1238" height="276" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1605685093756" />
+    <state width="1238" height="276" key="GridCell.Tab.0.left" timestamp="1605685093755">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1604587903976" />
+    <state width="1238" height="276" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1605685093755" />
+    <state width="1238" height="276" key="GridCell.Tab.0.right" timestamp="1605685093756">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1604587903977" />
+    <state width="1238" height="276" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1605685093756" />
+    <state width="1238" height="276" key="GridCell.Tab.1.bottom" timestamp="1605685093677">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1604587872354" />
+    <state width="1238" height="276" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1605685093677" />
+    <state width="1238" height="276" key="GridCell.Tab.1.center" timestamp="1605685093676">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1604587872353" />
+    <state width="1238" height="276" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1605685093676" />
+    <state width="1238" height="276" key="GridCell.Tab.1.left" timestamp="1605685093676">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1604587872353" />
+    <state width="1238" height="276" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1605685093676" />
+    <state width="1238" height="276" key="GridCell.Tab.1.right" timestamp="1605685093676">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1604587872354" />
+    <state width="1238" height="276" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1605685093676" />
+    <state x="123" y="68" key="SettingsEditor" timestamp="1605619100701">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="123" y="55" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1604587028628" />
+    <state x="123" y="68" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1605619100701" />
+    <state x="432" y="283" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1604496552247">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="432" y="283" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1280.800@0.0.1280.800" timestamp="1604496552247" />
+    <state x="480" y="196" key="ftp.server.browser" timestamp="1605602665444">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="480" y="178" key="ftp.server.browser/0.0.1280.800@0.0.1280.800" timestamp="1604586763323" />
+    <state x="480" y="196" key="ftp.server.browser/0.23.1280.777@0.23.1280.777" timestamp="1605602665444" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1604653509412">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1604653509412" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/TD_RvNN_VAE.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/BERT.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_prepare.py</url>
+          <line>219</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainResponseWAE.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_io.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PathFake$MainResponseWAE.coverage" NAME="MainResponseWAE Coverage Results" MODIFIED="1604651181650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$MainResponseWAE4Early.coverage" NAME="MainResponseWAE4Early Coverage Results" MODIFIED="1588587098374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$data_io.coverage" NAME="data_io Coverage Results" MODIFIED="1604668549834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$PhemeMainResponseWAE.coverage" NAME="PhemeMainResponseWAE Coverage Results" MODIFIED="1605685093654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$pheme_data_prepare.coverage" NAME="pheme_data_prepare Coverage Results" MODIFIED="1605537615151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$config.coverage" NAME="config Coverage Results" MODIFIED="1604649908363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$early_plot16.coverage" NAME="early_plot16 Coverage Results" MODIFIED="1589603072309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$ablation_plot.coverage" NAME="ablation_plot Coverage Results" MODIFIED="1589625093951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$data_prepare.coverage" NAME="data_prepare Coverage Results" MODIFIED="1589281719216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$early_plot.coverage" NAME="early_plot15 Coverage Results" MODIFIED="1589603105959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PathFake$plot.coverage" NAME="plot Coverage Results" MODIFIED="1589275754180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

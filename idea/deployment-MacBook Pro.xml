@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zperfet@172.31.246.36:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="zper@202.205.99.175:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/zperData/FakeNews/PathFake" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
